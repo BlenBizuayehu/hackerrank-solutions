@@ -1,0 +1,1 @@
+{"name":"Local: q3","url":"c:\\Users\\hp\\OneDrive\\Desktop\\a2sv\\contest\\contest3\\q3.py","tests":[{"id":1770488880364,"input":"5\n3 2 2 1\n1 1 1 1\n5 4 2 3\n10 7 5 2\n4 4 1 3","output":"YES\nYES\nYES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\OneDrive\\Desktop\\a2sv\\contest\\contest3\\q3.py","group":"local","local":true}
